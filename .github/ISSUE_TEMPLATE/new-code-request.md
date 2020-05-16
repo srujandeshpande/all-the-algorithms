@@ -2,7 +2,7 @@
 name: New Code Request
 about: Request an already existing algorithm in a new language
 title: "[CODE]"
-labels: ''
+labels: code, enhancement
 assignees: ''
 
 ---

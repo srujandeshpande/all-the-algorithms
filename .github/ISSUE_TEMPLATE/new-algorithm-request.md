@@ -2,7 +2,7 @@
 name: New Algorithm Request
 about: Suggest a new algorithm
 title: "[ALGO]"
-labels: ''
+labels: algo, enhancement
 assignees: ''
 
 ---
