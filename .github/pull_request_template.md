@@ -1,18 +1,9 @@
----
-title: "[NEW PR]"
-labels: enhancement
-assignees: srujandeshpande
-
----
-
-**Fixes** #_  
+**Fixes** Closes #  
 
 **Algorithm**
 
 **Language**
 
 **Describe the addition**
-Please provide a clear and concise description of what additions this pull request contains.
 
-**Additional content**
-Add any other additional content such as links or screenshots here.
+**Additional content such as links or screenshots**
