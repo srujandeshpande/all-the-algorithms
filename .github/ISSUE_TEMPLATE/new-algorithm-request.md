@@ -3,7 +3,7 @@ name: New Algorithm Request
 about: Suggest a new algorithm
 title: "[ALGO]"
 labels: algo, enhancement
-assignees: ''
+assignees: srujandeshpande
 
 ---
 
