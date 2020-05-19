@@ -1,2 +1,2 @@
 # all-the-algorithms
-Every single algorithm!
+Every single algorithm in (hopefully) every single language!
