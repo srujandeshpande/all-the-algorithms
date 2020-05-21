@@ -2,7 +2,7 @@
 name: Code Bug Report
 about: Create a report about a bug in already existing code
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
